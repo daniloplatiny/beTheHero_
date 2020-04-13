@@ -1,8 +1,12 @@
 # beTheHero_
-Projeto da Semana OmmiStack da Rocketseat. 
+
+## OmmiStack 11 - Rocketseat 
+
+System to help NGOs to find collaborates.
+
 
  
 - Node.js - Backend 
 - React - Frontend web
 - React Native / Expo - Mobile
-- SQLite - Banco de dados
+- SQLite - Database
